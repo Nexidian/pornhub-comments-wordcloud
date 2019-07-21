@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 from .core import *
-from selenium import webdriver
 
 
 class RequestManager(object):
